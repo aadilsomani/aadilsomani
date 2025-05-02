@@ -10,7 +10,7 @@ Interested in software engineering, AI, and building cool tech.
 
 ## 🔗 Links
 - [My LinkedIn](https://linkedin.com/in/aadilsom)
-- [My Site]https://aadilsomani.github.io/site/
+- [My Site](https://aadilsomani.github.io/site/)
 
 ## 🎯 Current Goals
 - Survive in the industry
