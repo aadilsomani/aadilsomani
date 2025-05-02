@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Aadil Somani
 
-<!--
-**aadilsomani/aadilsomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS + BBA Double Degree student at Waterloo & Laurier  
+Interested in software engineering, AI, and building cool tech.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: C++, Python, JavaScript, HTML, CSS
+- Frameworks: React, Node.js, Flask
+- Tools: Git, VS Code, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+- [My LinkedIn](https://linkedin.com/in/aadilsom)
+- [My Site]https://aadilsomani.github.io/site/
+
+## 🎯 Current Goals
+- Survive in the industry
+- Explore the rise of AI
+- Buy cool new tech 
